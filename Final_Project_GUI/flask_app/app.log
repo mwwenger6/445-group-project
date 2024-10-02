@@ -1,0 +1,14 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 652-375-071
+PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 65536
+2024-04-24 19:19:29,586 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-24 19:19:29,586 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-04-24 19:19:29,588 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-24 19:19:32,889 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-24 19:19:32,902 INFO werkzeug MainThread :  * Debugger PIN: 652-375-071
+2024-04-24 19:19:55,836 INFO werkzeug MainThread :  * Detected change in 'D:\\Spring2024\\CMPSC445\\Final_Project_GUI\\flask_app\\app.py', reloading
+2024-04-24 19:19:56,273 INFO werkzeug MainThread :  * Restarting with stat
